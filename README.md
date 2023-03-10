@@ -2,8 +2,6 @@
 Project ITCS212_Web Programming at Faculty of Information and Communication Technology (ICT Mahidol).
 For this project to design and develop about Lollipop Music.
 
-#### Our Member Team ID: 120 Useless
-
 # Read this important part!
 ## For LOLLIPOP MUSIC 
 requirements
