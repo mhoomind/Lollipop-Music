@@ -1,11 +1,5 @@
-# Lollipop_Music_Project
-Project ITCS212_Web Programming at Faculty of Information and Communication Technology (ICT Mahidol).
-For this project to design and develop about Lollipop Music.
-
-#### Our Member Team ID: 120 Useless
-
-# Read this important part!
-## For LOLLIPOP MUSIC 
+Read this important part!
+For LOLLIPOP MUSIC 
 requirements
 
 -Node.js "https://nodejs.org/en/download/"
@@ -25,10 +19,8 @@ Set up steps.
 5. Execute "pm2 start lollipop_resource.js" and "pm2 start lollipop_server.js".
 
 6. Go to this url: "http://localhost:7000/", click login, and type in the Email ID box "Test@hotmail.com" and type in the password box "Test" to connect to our webpage.
-
-## For LOLLIPOP ADMIN
+For LOLLIPOP ADMIN
 requirements
-
 -Node.js "https://nodejs.org/en/download/"
 
 -MySQL to run our database file in the folder "Database", where "sec1_gr11_database.sql" is the schema and "lollipop.sql" is the database.
